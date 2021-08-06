@@ -1,4 +1,4 @@
-# React Scrapper Front end
+# Front end scrapper project using React
 
 ## Usage
 
